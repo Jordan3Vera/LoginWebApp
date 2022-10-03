@@ -1,0 +1,121 @@
+:host ::ng-deep {
+    .cardLoginRest{
+        position: absolute;
+        top: 0;
+        left: 50%;
+        transform: translate(-50%,70%);
+        background: hsla(205,46%, 30%, 1);
+        .p-card-header{
+            color: #fff;
+            font-weight: bold;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            text-align: center;
+            margin-top: 2rem;
+            position: static;
+            span{
+                position: relative;
+                top: 1rem;
+                text-transform: uppercase;
+            }
+        }
+        .p-card-content{
+            label{
+                color: #fff;
+            }
+            .btn{
+                border-radius: 3px;
+                height: 40px;
+            }
+        }
+
+        .p-card-footer{
+            position: static;
+            margin-top: -2em;
+            div{
+                display: flex;
+                align-items: center;
+                gap: 10px;
+                .btn{
+                    border-radius: 3px;
+                    font-family: vagrant;
+                }
+                a{
+                    color: rgb(154, 250, 9);
+                    opacity: 0.9;
+                }
+            }
+            a{
+                display: inline;
+                text-decoration: none;
+                color: yellowgreen;
+                opacity: 0.8;
+            }
+            a:hover{
+                text-decoration: underline;
+                color: rgb(223, 35, 151);
+            }
+        }
+    }
+}
+
+:host ::ng-deep{
+    @media (max-width: 1400px){
+        .cardLoginRest{
+            position: absolute;
+            top: 0;
+            left: 50%;
+            transform: translate(-50%,40%);
+            background: hsla(205,46%, 30%, 1);
+            .p-card-header{
+                color: #fff;
+                font-weight: bold;
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                text-align: center;
+                margin-top: 2rem;
+                position: static;
+                span{
+                    position: relative;
+                    top: 1rem;
+                    text-transform: uppercase;
+                }
+            }
+            .p-card-content{
+                label{
+                    color: #fff;
+                }
+                .btn{
+                    border-radius: 3px;
+                    height: 40px;
+                }
+            }
+    
+            .p-card-footer{
+                position: static;
+                margin-top: -2em;
+                div{
+                    display: flex;
+                    align-items: center;
+                    gap: 10px;
+                    .btn{
+                        border-radius: 3px;
+                        font-family: vagrant;
+                    }
+                    a{
+                        color: rgb(154, 250, 9);
+                        opacity: 0.9;
+                    }
+                }
+                a{
+                    display: inline;
+                    text-decoration: none;
+                    color: yellowgreen;
+                    opacity: 0.8;
+                }
+                a:hover{
+                    text-decoration: underline;
+                    color: rgb(223, 35, 151);
+                }
+            }
+        }
+    }
+}

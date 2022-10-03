@@ -1,0 +1,52 @@
+<!-- Inicio de sesión para la API Rest que está aplicada con .Net Core v5 y SQL Server -->
+<section>
+    <div class="grid">
+        <p-card styleClass="cardLoginRest">
+            <ng-template pTemplate="header" styleClass="bg-orange-500">
+                <div class="flex justify-content-center flex-column">
+                    <img src="../../../../../assets/images/ENSALogo.png" style="height: 60px; width: 100px; margin: auto;" alt="Icono de ENSA">
+                    <span>Registrase</span>
+                </div>
+            </ng-template>
+            <ng-template pTemplate="content">
+                <form autocomplete="off" [formGroup]="registerForm" (ngSubmit)="Register()">
+                    <div class="card">
+                        <div class="field">
+                            <label for="username">Usuario</label>
+                            <input pInputText id="username" type="text" autofocus name="username" formControlName="username" maxlength="30"
+                            class="text-base text-color surface-overlay p-2 border-1 border-solid surface-border border-noround appearance-none outline-none focus:border-success w-full"
+                            placeholder="Crear nombre de usuario">
+                        </div>
+                        <div class="field">
+                            <label for="email">Correo electrónico</label>
+                            <input pInputText id="email" type="text" autofocus name="email" formControlName="email" [pKeyFilter]="'email'"
+                            class="text-base text-color surface-overlay p-2 border-1 border-solid surface-border border-noround appearance-none outline-none focus:border-success w-full"
+                            placeholder="Ingresar correo electrónico">
+                        </div>
+                        <div class="field">
+                            <label for="password">Contraseña</label>
+                            <input id="password" type="password" name="password" formControlName="password"
+                            class="text-base text-color surface-overlay p-2 border-1 border-solid surface-border border-noround appearance-none outline-none focus:border-primary w-full"
+                            placeholder="Crear contraseña">
+                        </div>
+                        <div class="field">
+                            <label for="passwordConfirm">Repetir contraseña</label>
+                            <input pInputText id="passwordConfirm" type="password" autofocus name="passwordConfirm" formControlName="confirmPassword"
+                            class="text-base text-color surface-overlay p-2 border-1 border-solid surface-border border-noround appearance-none outline-none focus:border-success w-full"
+                            placeholder="Repetir contraseña">
+                        </div>
+                        <div class="field">
+                            <p-button type="submit" label="Registrarse" [disabled]="registerForm.invalid" styleClass="btn" pTooltip="Registrar" tooltipPosition="bottom">
+                            </p-button>
+                        </div>
+                    </div> 
+                </form>
+            </ng-template>
+            <ng-template pTemplate="footer">
+                <div>
+                    <a routerLink="/">Volver al inicio</a>
+                </div>
+            </ng-template>
+        </p-card>
+    </div>  
+</section>

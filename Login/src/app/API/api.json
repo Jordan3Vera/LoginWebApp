@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": 3,
+      "firstname": "Mengio",
+      "lastname": "Migno",
+      "email": "mg@hotmail.com",
+      "password": "$2a$10$cQzjdpJO033UcykJNoNKrOEO0F6UKnfjgIdxDuWs7D7r453hMJdb6",
+      "confirmPassword": "1234"
+    }
+  ],
+  "login": []
+}

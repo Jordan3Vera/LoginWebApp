@@ -1,0 +1,13 @@
+<p-menubar [baseZIndex]="999999" [autoDisplay]="false" [model]="items">
+    <ng-template pTemplate="start">
+        <!-- <img src="../../../../assets/images/ENSALogo.png" alt="Imagen de ENSA"> -->
+        <i class="fa-solid fa-screwdriver-wrench"></i>
+    </ng-template>
+    <ng-template pTemplate="end">
+        <p-tieredMenu [model]="itemUser" #menu [popup]="true" [styleClass]="'tieredMenu'"></p-tieredMenu>
+        <button type="button" pButton class="btnCloseSession" #btn (click)="menu.toggle($event)" id="userBtn">
+            <i class="pi pi-fw pi-user mr-2"></i>
+            | {{usereadonly}}
+        </button>
+    </ng-template>
+</p-menubar>

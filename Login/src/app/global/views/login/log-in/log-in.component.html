@@ -1,0 +1,208 @@
+
+
+<!-- Inicio de sesión para la API Rest que está aplicada con .Net Core v5 y SQL Server -->
+<section *ngIf="checked == true ? '' : 'show'">    
+    <div class="grid">
+        <p-card styleClass="cardLoginRest">
+            <ng-template pTemplate="header" styleClass="bg-orange-500">
+                <div class="flex justify-content-center flex-column">
+                    <img src="../../../../../assets/images/ENSALogo.png" style="height: 60px; width: 100px; margin: auto;" alt="Imagen de ENSA">
+                    <span class="block">Iniciar sesión</span>
+                </div>
+            </ng-template>
+            <ng-template pTemplate="content">
+                <form autocomplete="off" [formGroup]="loginForm" (ngSubmit)="loginApiRest()">
+                    <div class="card mx-2">
+                        <div class="field">
+                            <label for="email">Correo electrónico</label>
+                            <div class="p-inputgroup">
+                                <span class="p-inputgroup-addon border-noround">@</span>
+                                <input pInputText id="email" type="text" autofocus name="email" formControlName="email" [pKeyFilter]="'email'" [pValidateOnly]="true"
+                                class="text-base text-color surface-overlay p-2 border-1 border-solid surface-border border-noround appearance-none outline-none focus:border-success w-full"
+                                placeholder="Ingresar el correo electrónico">
+                            </div>
+                        </div>
+                        <div class="field">
+                            <label for="password">Contraseña</label>
+                            <div class="p-inputgroup">
+                                <span class="p-inputgroup-addon border-noround"><i class="fa-solid fa-key"></i></span>
+                                <input id="password" type="password" name="password" formControlName="password"
+                                class="text-base text-color surface-overlay p-2 border-1 border-solid surface-border border-noround appearance-none outline-none focus:border-success w-full"
+                                placeholder="Ingresar la contraseña" maxlength="16">
+                            </div>
+                        </div>
+                        <div class="field flex align-items-center justify-content-between">
+                            <p-button type="submit" label="Ingresar" [disabled]="loginForm.invalid" styleClass="btn" pTooltip="Acceder" tooltipPosition="bottom">
+                            </p-button>
+                            <a routerLink="/reset-pass" class="text-yellow-500 font-bold font-italic no-underline hover:underline">¿Olvidaste tu contraseña?</a>
+                        </div>
+                    </div> 
+                </form>
+            </ng-template>
+            <ng-template pTemplate="footer">
+                <div class="flex justify-content-between">
+                    <a routerLink="/logup" class="font-bold cursor-pointer" pTooltip="¿No estás registrado aún en ENSA?" tooltipPosition="top">Crear una cuenta</a>
+                </div>
+                <div class="p-field-checkbox">
+                    <p-checkbox [(ngModel)]="checked"  [binary]="true" styleClass="mt-3" inputId="binary"></p-checkbox>
+                    <label for="binary" class="text-white font-bold mt-3 cursor-pointer">FIS - Ingeniería y Software</label>
+                </div>
+            </ng-template>
+        </p-card>
+    </div>  
+</section>
+
+
+<!-- Inicio de sesión para la API Fake que está aplicada con el json-server y la autorización con json-server-auth -->
+<section *ngIf="checked == false ? '' : 'show'">    
+    <div class="grid">
+        <p-card styleClass="cardLoginFake">
+            <ng-template pTemplate="header" styleClass="bg-orange-500">
+                <div class="flex justify-content-center flex-column">
+                    <img src="../../../../../assets/images/LogoFIS.png" style="height: 60px; width: 150px; margin: auto;" alt="Imagen de FIS">
+                    <span>Iniciar sesión</span>
+                </div>
+            </ng-template>
+            <ng-template pTemplate="content">
+                <form autocomplete="off" [formGroup]="loginForm" (ngSubmit)="loginApiFake()">
+                    <div class="card mx-2">
+                        <div class="field">
+                            <label for="email">Correo electrónico</label>
+                            <div class="p-inputgroup">
+                                <span class="p-inputgroup-addon border-noround">@</span>
+                                <input pInputText id="email" type="text" autofocus name="email" formControlName="email" [pKeyFilter]="'email'" [pValidateOnly]="true"
+                                class="text-base text-color surface-overlay p-2 border-1 border-solid surface-border border-noround appearance-none outline-none focus:border-success w-full"
+                                placeholder="Ingresar el correo electrónico">
+                            </div>
+                        </div>
+                        <div class="field">
+                            <label for="password">Contraseña</label>
+                            <div class="p-inputgroup">
+                                <span class="p-inputgroup-addon border-noround"><i class="fa-solid fa-key"></i></span>
+                                <input id="password" type="password" name="password" formControlName="password" pInputText
+                                class="text-base text-color surface-overlay p-2 border-1 border-solid surface-border border-noround appearance-none outline-none focus:border-primary w-full"
+                                placeholder="Ingresar la contraseña">
+                            </div>
+                        </div>
+                        <div class="field flex align-items-center justify-content-between">
+                            <p-button type="submit" label="Ingresar" [disabled]="loginForm.invalid" styleClass="btn" pTooltip="Acceder" tooltipPosition="bottom">
+                            </p-button>
+                            <a (click)="isDialogResetFIS()" class="text-yellow-500 font-bold font-italic no-underline hover:underline cursor-pointer">¿Olvidaste tu contraseña?</a>
+                        </div>
+                    </div> 
+                </form>
+            </ng-template>
+            <ng-template pTemplate="footer">
+                <div class="flex justify-content-between">
+                    <span (click)="isDialogFIS()" class="font-bold cursor-pointer" pTooltip="¿No estás registrado aún en FIS?" tooltipPosition="top">Crear una cuenta</span>
+                </div>
+                <div class="p-field-checkbox">
+                    <p-checkbox [(ngModel)]="checked" styleClass="text-white mt-3" [binary]="true" inputId="binary"></p-checkbox>
+                    <label for="binary" class="text-white font-bold mt-3 cursor-pointer">ENSA - Siderurgia</label>
+                </div>
+            </ng-template>
+        </p-card>
+    </div>  
+</section>
+
+<!-- Para registrarse en la FIS -->
+<p-dialog [(visible)]="dialogFIS" [modal]="true" styleClass="cardRegisterFake" [draggable]="false" position="center" [closable]="true"
+[showHeader]="true" [autoZIndex]="true" closeIcon="pi pi-fw pi-times">
+    <ng-template pTemplate="header" styleClass="bg-orange-500">
+        <div class="flex justify-content-between align-items-center">
+            <img src="../../../../../assets/images/LogoFIS.png" style="height: 60px; width: 100px; margin: auto;" alt="Icono de ENSA">
+            <span class="font-bold text-xl fadeinright animation-duration-2000 underline font-italic">Registrarse</span>
+        </div>
+    </ng-template>
+    <ng-template pTemplate="content">
+        <form autocomplete="off" [formGroup]="registerForm" (ngSubmit)="RegisterFIS()" class="w-12 m-auto">
+            <div class="card">
+                <div class="field">
+                    <label for="username">Usuario</label>
+                    <input pInputText id="username" type="text" autofocus name="username" formControlName="username" maxlength="30"
+                    class="text-base text-color surface-overlay p-2 border-1 border-solid surface-border border-noround appearance-none outline-none focus:border-success w-full"
+                    placeholder="Crear nombre de usuario">
+                </div>
+                <div class="field">
+                    <label for="email">Correo electrónico</label>
+                    <input pInputText id="email" type="text" autofocus name="email" formControlName="email" [pKeyFilter]="'email'" [pValidateOnly]="true"
+                    class="text-base text-color surface-overlay p-2 border-1 border-solid surface-border border-noround appearance-none outline-none focus:border-success w-full"
+                    placeholder="Ingresar correo electrónico">
+                </div>
+                <div class="field">
+                    <label for="password">Contraseña</label>
+                    <input id="password" type="password" name="password" formControlName="password"
+                    class="text-base text-color surface-overlay p-2 border-1 border-solid surface-border border-noround appearance-none outline-none focus:border-primary w-full"
+                    placeholder="Crear contraseña">
+                </div>
+                <div class="field">
+                    <label for="passwordConfirm">Repetir contraseña</label>
+                    <input pInputText id="passwordConfirm" type="password" autofocus name="passwordConfirm" formControlName="confirmPassword"
+                    class="text-base text-color surface-overlay p-2 border-1 border-solid surface-border border-noround appearance-none outline-none focus:border-success w-full"
+                    placeholder="Repetir contraseña">
+                </div>
+                <div class="field">
+                    <button pButton type="submit" label="Registrarse" [disabled]="registerForm.invalid" class="border-noround p-button-sm p-button-success" 
+                    pTooltip="Crear cuenta" tooltipPosition="bottom">
+                    </button>
+                </div>
+            </div> 
+        </form>
+    </ng-template>
+</p-dialog>
+
+<!-- Para cambiar la contraseña de usuario en FIS -->
+<!-- Primero se confirma por correo -->
+<p-dialog [(visible)]="dialogEmailConfirmFIS" [modal]="true" [draggable]="false" position="center" closeIcon="pi pi-fw pi-times">
+    <ng-template pTemplate="header" styleClass="bg-orange-500">
+        <span class="font-bold font-italic underline text-xl">Reestablecer contraseña</span>
+    </ng-template>
+    <ng-template pTemplate="content">
+        <form autocomplete="off" [formGroup]="emailFormFIS" (ngSubmit)="EmailConfirm()">
+            <div class="card">
+                <div class="field">
+                    <label for="email">Correo electrónico</label>
+                    <input pInputText id="email" type="text" autofocus name="email" formControlName="email" [pKeyFilter]="'email'" [pValidateOnly]="true"
+                    class="text-base text-color surface-overlay p-2 border-1 border-solid surface-border border-noround appearance-none outline-none focus:border-success w-full"
+                    placeholder="Ingresar el correo electrónico">
+                </div>
+                <div class="field flex justify-content-between align-items-center">
+                    <p-button type="submit" label="Ingresar" [disabled]="emailFormFIS.invalid" styleClass="p-button-info border-noround" pTooltip="Acceder" tooltipPosition="bottom">
+                    </p-button>
+                    <img src="../../../../../assets/images/LogoFIS.png" style="height: 60px; width: 100px;" alt="Icono de ENSA">
+                </div>
+            </div> 
+        </form>
+    </ng-template>
+</p-dialog>
+
+<!-- Se cambia la contraseña -->
+<p-dialog [(visible)]="dialogPassResetFIS" [modal]="true" [draggable]="false" position="center" closeIcon="pi pi-fw pi-times">
+    <ng-template pTemplate="header" styleClass="bg-orange-500">
+        <span class="text-xl font-bold font-italic underline">Cambiar contraseña</span>
+    </ng-template>
+    <ng-template pTemplate="content">
+        <form autocomplete="off" [formGroup]="resetFormFIS" (ngSubmit)="ChangePassword()">
+            <div class="card">
+                <div class="field">
+                    <label for="password">Contraseña</label>
+                    <input id="password" type="password" name="password" formControlName="password" autofocus
+                    class="text-base text-color surface-overlay p-2 border-1 border-solid surface-border border-noround appearance-none outline-none focus:border-primary w-full"
+                    placeholder="Crear contraseña">
+                </div>
+                <div class="field">
+                    <label for="confirmPassword">Confirmar contraseña</label>
+                    <input id="confirmPassword" type="password" name="confirmPassword" formControlName="confirmPassword"
+                    class="text-base text-color surface-overlay p-2 border-1 border-solid surface-border border-noround appearance-none outline-none focus:border-primary w-full"
+                    placeholder="Repetir contraseña">
+                </div>
+                <div class="field flex justify-content-between align-items-center">
+                    <p-button type="submit" label="Guardar" [disabled]="resetFormFIS.invalid" styleClass="p-button-success border-noround" pTooltip="Cambiar contraseña" tooltipPosition="bottom">
+                    </p-button>
+                    <img src="../../../../../assets/images/LogoFIS.png" style="height: 60px; width: 100px;" alt="Icono de ENSA">
+                </div>
+            </div> 
+        </form>
+    </ng-template>
+</p-dialog>
+

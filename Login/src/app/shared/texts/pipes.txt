@@ -1,0 +1,45 @@
+# PIPES
+# Los tipos de pipes que vienen por defecto. O todas las que viene con angular
+
+* Curreny: son los pipes para el formato de monedas. Por ejmplo {{345.76 | currency: 'EUR'}}
+
+* Date: para el formato de fechas. Y al igual que currency a este hay que pasarle el tipo de formato. Por ejemplo:
+    - 'short': por ejemplo, 6/15/15, 9:03 AM
+    - 'medium': por ejemplo, Jun 15, 2015, 9:03:01 AM
+    - 'long': por ejemplo, June 15, 2015 at 9:03:01 AM GMT+1
+    - 'full': por ejemplo, Monday, June 15, 2015 at 9:03:01 AM GMT+01:00
+    - 'shortDate': por ejemplo, 6/15/15
+    - 'mediumDate': por ejemplo, Jun 15, 2015
+    - 'longDate': por ejemplo, June 15, 2015
+    - 'fullDate': por ejemplo, Monday, June 15, 2015
+    - 'shortDate': por ejemplo, 9:03 AM
+    - 'mediumtime': por ejemplo, 9:03:01 AM
+    - 'longTime': por ejemplo, 9:03:01 AM GMT+1 
+    - 'fullTime': por ejemplo,9:03:01 AM GMT+01:00
+    - También se puede pasar el formato perzonalidado. Por ejemplo: {{myVar | date: 'M/d/yy'}}
+
+* Decimal: para mostrar números con coma decimal. Por ejemplo: {{3.14159265 | number: '3.1-2'}}
+
+* JSON: este pipe permite imprimir un dato de tipo json. Por ejemplo:  <pre>{{myVal | json}}</pre>
+
+* LowerCase and Uppercase: permite transformar texto a mayúscula o a minúsculas. Por ejemplo:
+    - <p>{{ 'prueba' | uppercase }}</p>
+    - <p>{{ 'PRUEBA' | lowercase }}</p>
+
+* Percent: para imprimir porcentajes, se usa igual que los decimales, indicando el número de digitos que queremos. Por ejemplo: 
+    -  <p>{{ 0.38679 | percent: '2.1-2' }}</p> = resultado 38.68%
+
+* Slice: para recortar arreglos. Se pasan dos números el índice del principio y el índice del final: 
+    -  <p>{{ [1,2,3,4,5,6] | slice:1:3 }}</p>
+
+* Lo bueno de esto es que se pueden hacer pipes propios, personalizarlos tu mismo
+
+* Cada pipe que se crea debe ser importada al AppModule para que esta pueda ser llamada o usada desde cualquier vista
+
+* Otro punto importante es que pueden ser usados con Observables y con Promises, permitiendo no tener que hacer subscribe manualmente
+  a los observables, en la mayoría de los casos.
+
+* El operador de canalización no se puede utilizar sin paréntesis en el primer y segundo operandos de ?. Por ejemplo:
+    - {{ (true ? 'true' : 'false') | uppercase }}
+
+* Otro punto importante es que se pueden encadenar pipes. Por ejemplo: {{ birthday | date:'fullDate' | uppercase }}

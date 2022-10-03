@@ -1,0 +1,472 @@
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.csproj.AssemblyReference.cache
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.AssemblyInfoInputs.cache
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.AssemblyInfo.cs
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.csproj.CoreCompileInputs.cache
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.MvcApplicationPartsAssemblyInfo.cs
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.MvcApplicationPartsAssemblyInfo.cache
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\appsettings.Development.json
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\appsettings.json
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\WebApiRest.exe
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\WebApiRest.deps.json
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\WebApiRest.runtimeconfig.json
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\WebApiRest.runtimeconfig.dev.json
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\WebApiRest.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\WebApiRest.pdb
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Humanizer.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\scopedcss\bundle\WebApiRest.styles.css
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\staticwebassets\WebApiRest.StaticWebAssets.Manifest.cache
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.RazorTargetAssemblyInfo.cache
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.csproj.CopyComplete
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\refint\WebApiRest.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.pdb
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.genruntimeconfig.cache
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\ref\WebApiRest.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Web.Http.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\AutoMapper.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Jordan Vera\Proyectos personales (prueba y práctica)\Sistemas\Facultad\App\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\appsettings.Development.json
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\appsettings.json
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\WebApiRest.exe
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\WebApiRest.deps.json
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\WebApiRest.runtimeconfig.json
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\WebApiRest.runtimeconfig.dev.json
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\WebApiRest.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\WebApiRest.pdb
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\AutoMapper.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Humanizer.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Web.Http.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.csproj.AssemblyReference.cache
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.AssemblyInfoInputs.cache
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.AssemblyInfo.cs
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.csproj.CoreCompileInputs.cache
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.MvcApplicationPartsAssemblyInfo.cs
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.MvcApplicationPartsAssemblyInfo.cache
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\scopedcss\bundle\WebApiRest.styles.css
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\staticwebassets\WebApiRest.StaticWebAssets.Manifest.cache
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.RazorTargetAssemblyInfo.cache
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.csproj.CopyComplete
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\refint\WebApiRest.dll
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.pdb
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.genruntimeconfig.cache
+C:\Jordan Vera\Angular projects\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\ref\WebApiRest.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\appsettings.Development.json
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\appsettings.json
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\WebApiRest.exe
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\WebApiRest.deps.json
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\WebApiRest.runtimeconfig.json
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\WebApiRest.runtimeconfig.dev.json
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\WebApiRest.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\WebApiRest.pdb
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\AutoMapper.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Humanizer.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Web.Http.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.csproj.AssemblyReference.cache
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.AssemblyInfoInputs.cache
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.AssemblyInfo.cs
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.csproj.CoreCompileInputs.cache
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.MvcApplicationPartsAssemblyInfo.cs
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.MvcApplicationPartsAssemblyInfo.cache
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\scopedcss\bundle\WebApiRest.styles.css
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\staticwebassets\WebApiRest.StaticWebAssets.Manifest.cache
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.RazorTargetAssemblyInfo.cache
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.csproj.CopyComplete
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\refint\WebApiRest.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.pdb
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\WebApiRest.genruntimeconfig.cache
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\obj\Debug\net5.0\ref\WebApiRest.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Serilog.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Serilog.Extensions.Logging.File.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Serilog.Sinks.Async.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Jordan Vera\Angular projects\Sistema\Backend\WebApiRest\WebApiRest\bin\Debug\net5.0\Serilog.Sinks.RollingFile.dll

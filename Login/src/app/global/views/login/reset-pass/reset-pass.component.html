@@ -1,0 +1,71 @@
+<!-- Change the password for ApiRest -->
+<section *ngIf="formPass == true ? '' : 'show'">    
+    <div class="grid">
+        <p-card styleClass="cardLoginRest">
+            <ng-template pTemplate="header" styleClass="bg-orange-500">
+                <div class="flex justify-content-center flex-column">
+                    <img src="../../../../../assets/images/ENSALogo.png" style="height: 60px; width: 100px; margin: auto;" alt="Icono de ENSA">
+                    <span class="block">Reestablecer contraseña</span>
+                </div>
+            </ng-template>
+            <ng-template pTemplate="content">
+                <form autocomplete="off" [formGroup]="emailForm" (ngSubmit)="EmailConfirm()">
+                    <div class="card">
+                        <div class="field">
+                            <label for="email">Correo electrónico</label>
+                            <input pInputText id="email" type="text" autofocus name="email" formControlName="email"
+                            class="text-base text-color surface-overlay p-2 border-1 border-solid surface-border border-noround appearance-none outline-none focus:border-success w-full"
+                            placeholder="Ingresar el correo electrónico">
+                        </div>
+                        <div class="field">
+                            <p-button type="submit" label="Ingresar" [disabled]="emailForm.invalid" styleClass="btn p-button-info" pTooltip="Acceder" tooltipPosition="bottom">
+                            </p-button>
+                        </div>
+                    </div> 
+                </form>
+            </ng-template>
+            <ng-template pTemplate="footer">
+                <div>
+                    <a routerLink="/" pTooltip="Volver al inicio" tooltipPosition="top" class="hover:text-green-500">Volver al inicio</a>
+                </div>
+            </ng-template>
+        </p-card>
+    </div>  
+</section>
+
+<section *ngIf="formPass == true ? 'hide' : ''">    
+    <div class="grid">
+        <p-card styleClass="cardLoginRest">
+            <ng-template pTemplate="header" styleClass="bg-orange-500">
+                <span>Cambiar contraseña</span>
+            </ng-template>
+            <ng-template pTemplate="content">
+                <form autocomplete="off" [formGroup]="resetForm" (ngSubmit)="ChangePassword()">
+                    <div class="card">
+                        <div class="field">
+                            <label for="password">Contraseña</label>
+                            <input id="password" type="password" name="password" formControlName="password" autofocus
+                            class="text-base text-color surface-overlay p-2 border-1 border-solid surface-border border-noround appearance-none outline-none focus:border-primary w-full"
+                            placeholder="Crear contraseña">
+                        </div>
+                        <div class="field">
+                            <label for="confirmPassword">Confirmar contraseña</label>
+                            <input id="confirmPassword" type="password" name="confirmPassword" formControlName="confirmPassword"
+                            class="text-base text-color surface-overlay p-2 border-1 border-solid surface-border border-noround appearance-none outline-none focus:border-primary w-full"
+                            placeholder="Repetir contraseña">
+                        </div>
+                        <div class="field">
+                            <p-button type="submit" label="Guardar" [disabled]="resetForm.invalid" styleClass="btn p-button-success" pTooltip="Cambiar contraseña" tooltipPosition="bottom">
+                            </p-button>
+                        </div>
+                    </div> 
+                </form>
+            </ng-template>
+            <ng-template pTemplate="footer">
+                <div>
+                    <a routerLink="/" pTooltip="Volver al login" tooltipPosition="top" class="hover:text-green-500">Volver al inicio</a>
+                </div>
+            </ng-template>
+        </p-card>
+    </div>  
+</section>

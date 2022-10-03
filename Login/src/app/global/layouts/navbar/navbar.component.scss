@@ -1,0 +1,25 @@
+:host ::ng-deep{
+    .p-menubar{
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        background-color: lightgrey;
+        border: none;
+        border-radius: 0;
+        img{
+            height: 40px;
+            width: 100px;
+        }
+        span:hover{
+            text-decoration: underline;
+            cursor: pointer;
+        }
+        span a{
+            font-weight: bold;
+            text-decoration: none;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            color: black;
+        }
+    }
+}

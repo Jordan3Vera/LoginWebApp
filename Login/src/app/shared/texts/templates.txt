@@ -1,0 +1,11 @@
+# Comprendiendo las variables de plantilla
+
+* Una variable de plantilla puede hacer referencia a:
+    - un elemento del DOM dentro de la plantilla
+    - una directiva o componente
+    - un TemplateRef de una plantilla ng
+    - a componente.web
+
+* Si se declara o hace un componente independiente, es posible que se desee utilizar otros componentes, directivas o canalizaciones en la 
+  plantilla del componente. Para que este funcione, en el .ts del componente hay que declarar el standalon = true; para que en este se 
+  puedan importar componentes, modulos, es decir; actuar como AppModule

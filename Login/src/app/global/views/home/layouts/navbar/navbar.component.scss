@@ -1,0 +1,54 @@
+:host ::ng-deep{
+    .p-menubar{
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        background-color: lightgrey;
+        border: none;
+        border-radius: 0;
+        img{
+            height: 40px;
+            width: 100px;
+        }
+        span:hover{
+            text-decoration: none;
+            cursor: pointer;
+        }
+        span a{
+            font-weight: bold;
+            text-decoration: none;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            color: black;
+        }
+        .tieredMenu{
+            background-color: lightyellow;   
+            width: max-content;
+        }
+
+        .btnCloseSession{
+            background-color: transparent;
+            border: none;
+            color: black;
+            outline: none;
+        }
+        .iconCloseButton:focus{
+            background-color: rgb(241, 70, 70);
+        }
+
+        @media (max-width: 1400px){
+            #respSession{
+                visibility: hidden;
+            }
+        }
+
+        @media (max-width: 960px){
+            #respSession{
+                visibility: visible;
+            }
+            #userBtn{
+                visibility: hidden;
+            }
+        }
+    }
+}

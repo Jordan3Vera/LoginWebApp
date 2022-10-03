@@ -1,0 +1,215 @@
+﻿# Teniendo en cuenta ciertos puntos 
+
+> En Entity Framework Core tenemos dos métodos para ejecutar procedimientos almacenados:
+	1. __FromSqlRaw()__: se utiliza para ejecutar declaraciones de consulta que devuelve registros de la base de datos.
+		. Solo se puede usas en la raíces de consulta, es decir, directamente en el archivo DbSet<>
+		. Se pueden utilizar para ejecutar un procedimeinto almacenado
+	2. __ExecuteSqlRaw | ExecuteSqlRawAsync()__: ejecutar un comando que puede modificar datos en la base de datos (normalmente comando DML como INSERTAR, ACTUALZIAR o ELIMINAR)
+	
+
+> Otro caso dado son los procedimientos almacenads que consultan los resultados, usando primero __FromSqlRaw()__
+	1. Este método será la instrucción SQL "exec sp_GetUser junto con los parámetros (por ejemplo)", para ejecutar el procedimiento almacenado
+	2. Una serie de parámetros para pasar con esta declaración SQL: necesitamos pasar objetos de tipo SqlParameter() que se asignan entre  los parámtros que estamos pensando de nuestro proyecto a los nombres de par+ametros reales que están definicdo en el SQL
+
+
+>> También se puede especificar una consulta como en SQL, por ejemplo, var users = _context.UserProfiles.Where(x => x.EmailAddress == id.EmailAddress).ToList();
+>> Repository: el proposito es **ocultar los detalles del acceso a los datos**. Se puede consultar fácilmente el repositorio de objetos de datos, sin tener que saber cómo proporcionar datos como la cadena de conexión.
+	_El patrón Repositior añade una capa entre los datos y las capas de dominio de una aplicación.
+
+> Los procedimientos almacenado no puede devolver valores por definición
+
+> __FromSqlInterpolated__ es similar a __FromSqlRaw__ pero le permite usar la sintaxis de interpolación de cadenas. El FromSqlInterpolated solo se puede usar en raíces y no es vulnerable a la inyección de SQL
+
+> Con LINQ se pueden redactar consulta SQL por ejemplo:
+	´´´sql
+		var searchTerm = "Lorem ipsum";
+		var blogs = _context.Blogs
+			.FromSqlInterpolated($"SELECT * FROM dbo.SarchBlogs({serachTerm})")
+			.WHERE(b => b.Rating > 3)
+			.OrderByDescending(b => b.Rating)
+			.ToList();
+	´´´
+
+> También se pueden incluir datos relacionados
+	´´´sql
+		var searchTerm = "Lorem ipsum";
+		var blogs = _context.Blogs
+			.FromSqlInterpolated($"SELECT * FROM dbo.SarchBlogs({serachTerm})")
+			.Include(b => b.Posts)
+			.ToList();
+	´´´
+
+### Importante
+> SQL Server no permite la composición sobre llamadas a procedimientos almacenados, por lo que cualquier intento de aplicar operadores de consulta adicionales a dicha
+llamada dará como resultado un SQL no válido. Se usa el método __AsEnumerable__ o __AsAsyncEnumerable__ justo después del método __FromSqlRow__ o __FromSqlInterpolated__ 
+__FromSqlRaw__ o __FromSqlInterpolated__ para asegurarse de que EF Core no intente componer sobre un procedimiento
+
+## Relaciones en EF
+> En EF, una entidad puede estar relaciona con otras entidades a través de un asociado o relación. 
+> Siempre es recomendable incluir las propiedades en el modelo que se asignen a claves foráneas a la base de datos.
+	. Una forma de incluir tablas o claves foraneas
+	´´´sql 
+		public class Blog
+		{
+			public int Id { get; set; }
+			public string Title { get; set; }
+			public string BloggerName { get; set;}
+			public virtual ICollection<Post> Posts { get; set; }
+		}
+
+		public class Post
+		{
+			public int Id { get; set; }
+			public string Title { get; set; }
+			public DateTime DateCreated { get; set; }
+			public string Content { get; set; }
+			public int BlogId { get; set; }
+			public ICollection<Comment> Comments { get; set; }
+		}
+	´´´
+
+> EF admite claves compuestas: claves principales que constan de más de una propiedad. Por ejemplo, 
+podría tener una clse Passport cuya principal sea una combinación de PassportNumber y IssuingCountry
+	. Breve ejemplo:
+	´´´sql
+		public class Passport
+		{
+			[key]
+			public int PassportNumber { get; set; }
+			[Key]
+			public string IssuingCountry { get; set; }
+			public DateTime Issued { get; set; }
+			public DateTime Expires { get; set; }
+		}
+	´´´
+#### A tener en cuenta
+> __No se puede determinar le orden de la clave primaria compuesta para el tipo 'Pasaporte'.
+Se utiliza el método ColumnAttribute o HasKey para especificar un orden para las claves 
+primarias compuestas.__
+
+>Para usar claves compuestas, EF requiere que se defina un orden para las propiedades clave. 
+Se puede hacer esto usando la anotación Column para especificar un orden
+
+## Data Annotation
+> En el DataAnnotation el __ConcurrencyCheck__ permite marcar una o más propiedades que se usen para verificar la
+concurrencia en la base de datos cuando un usuario edito o elimina una entidad.
+> __DataType__ es una anotación utilizada para la interfaz de usuario y Code First la ignora.
+> La anotación __InverseProperty__ especifíca la alineación de las propiedades
+
+
+## API fluida - Relaciones
+> Esta es la configuración o una de las configuraciones de Code First 
+##### Configuración de una relación de obligatorio o opcional (uno a cero o uno)
+	. Por ejemplo
+	´´´c#
+		//Configurar la clave pimaria para el OfficeAssignment
+		modelBuilder.Entity<OfficeAssignment>()
+			.HasKey(t => t.InstructorID);
+
+		//Mapear uno-a-cero o una relación
+		modelBuilder.Entity<OfficeAssignment>()
+			.HasRequired(t => t.Instructor)
+			.WithOptional(t => t.OfficeAssignment);
+	´´´
+
+##### Configuración de una relación en la que se requieren ambos extremos (uno a uno)
+	. Por ejemplo
+	´´´c#
+		//Configurar la clave pimaria para el OfficeAssignment
+		modelBuilder.Entity<OfficeAssignment>()
+			.HasKey(t => t.InstructorID);
+	
+		modelBuilder.Entity<Instructor>()
+			.HasRequired(t => t.OfficeAssignment)
+			.WithRequiredPrincipal(t => t.Instructor);
+	´´´
+
+##### Configuración de una relación de muchos a muchos
+> Este configura una relación de muchos a muchos entre los tipos Curso e Instructor. Se usan las convenciones 
+predeterminadas de Code First para crear una tabla de unión. Como resultado, la tabla CourseInstructor se crea
+con las columnas Course_CourseID e Instructor_InstructorID
+	. Por ejemplo
+	´´´c#
+		modelBuilder.Entity<Course>()
+			.HasMany(t => t.Instructors)
+			.WithMany(t => t.Courses)
+	´´´
+> En caso de que se quiere especificar una combinación y los nombres de las columnas de la tabla, 
+debe realizar una configuración adicional mediante el método Map. Por ejemplo:
+	´´´´c#
+		modelBuilder.Entity<Course>()
+			.HasMany(t => t.Instructors)
+			.WithMany(t => t.Courses)
+			.Map(m =>
+		{
+			m.ToTable("CourseInstructor");
+			m.MapLeftKey("CourseID");
+			m.MapRightKey("InstructorID");
+		});
+	´´´
+
+### Habilitación de la eliminación en cascada
+> con __WillCascadeOnDelete__ se puede configurar la eliminación en cascada en una relación. Si una clave externa en la entidad 
+dependiente no admite valores NULL, Code First establece la eliminación en cascada en la relación. Pero si la clave externa en 
+la entidad dependiente es anulable, entonces Code First no establece le eliminación en cascada en la relación, y cuando se 
+elimina el principal, la clave externa se establecerá en nulo.
+
+	.modelBuilder.Conventions.Remove<OneToManyCascadeDeleteConvention>()
+	.modelBuilder.Conventions.Remove<ManyToManyCascadeDeleteConvention>()
+
+### Definición de conjunto de base de datos
+> En caso de que no se deseé exponer setters públicos para sus propiedades DbSet o IDbSet, se puede crear propiedades de solo 
+lectura y crar instancias del conjutno usted mismo.
+>> Por ejemplo:
+	´´´c#
+		public class BloggingContext : DbContext 
+		{
+			public dbSet<Blog> Blogs
+			{
+				get { return Set<Blog>(); }
+			}
+
+			public DbSet<Client> Clients
+			{
+				get { return Set<Client>(); }
+			}
+		}
+	´´´
+> Hay que tener en cuenta que DbContext almacena en caché la instancia de DbSet devuelta por el métod set para que 
+cada una de estas propiedades devuelva la misma isntancia cada vez que se llame.
+
+### Atributos integrados
+	. [ValidateNever]
+	. [CreditCard]
+	. [Compare]
+	. [EmailAddress]
+	. [Teléfono]
+	. [Rane]
+	. [RegularExpression]
+	. [Required]
+	. [stringLenght]
+	. [Url]
+	. [Remote]
+
+> Así es la forma en que las propiedades no aceptan valores NULL en tipos genéricos y atributo [Obligatorio]
+	. Por ejemplo
+	´´´c#
+		public class WeatherForecast<T>
+		{
+			[Required]
+			public string TestRequired {get; set; } = null;
+			public T? Inner { get; set; }
+		}
+	´´´
+
+## Model Builder
+> ML.NET Model Builder es una extensión gráfica intuitiva de Visual Studio para crear, entrenar e implementar modelos de aprendizaje automático personalizados 
+> Model Builder utiliza el aprendizaje automático automatizado (AutoML) para explorar diferentes configuraciones y algoritmo de aprendizaje automático para 
+ayuda a encontrar el que mejor se adapte a su escenario.
+
+
+
+
+
+
+

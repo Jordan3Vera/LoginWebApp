@@ -1,0 +1,34 @@
+﻿# Características de seguridad de ASP.NET Core
+## Autenticación frente a Autorización
+> La autenticación es un proceso en el que un usuario proporciona credenciales que después se comparan ocn las almacenadas en un
+SO, DB, aplicación y recursos.
+
+##JWT Jason Web Tokens
+
+> El método __RemplacedByToken__ crea un registro de auditoría en la base de datos
+> Los registros de tokens de actualización revocados y caducados se conservan en la base de datos durante un número de días establecidos 
+en la propiedad __RefreshTokenTL__ en el archivo appsettings.json. El valor predeterminado es de 2 días, después de los cuales el servicio
+de cuenta elimina tokens inactivos antiguos en los métodos de token de autenticación y actualización.
+
+## Explicación y uso de los códigos de estado HTTP
+> HTTP GET get() -> Lista/Clientes
+> HTTP GET Get(int id) -> Un solo registro /Clientes/1
+> HTTP POST Post(object data) -> /Clientes
+> HTTP PUT Update(int id, object data) -> Actualización completa /Cliente/1
+> HTTP DELETE Delete(int id) -> /Clientes/1
+
+HTTP PATCH Patch(int int, object fields) -> Actualización parcial /Clientes/CambiarEstado/1 o /Clientes/1/CambiarEstado
+
+RESULTADO EXITOSO
+200 Ok -> Get
+201 created -< Post ('Clientes/1')
+204 no content -> UPDATE, DELETE, PATCH
+
+ERRORES
+400 bad request -> falta algún dato, no tengo permiso, algún formato no valido
+401 unauthorized -> no esté autenticado
+403 forbidden -> no tiene permisos para acceder a un recurso
+404 not found -> get(int id), update(), patch(), delete()
+405 method not allowed -> cuando no logra establecer una conexión o no recibe respuesta
+415 unsupported media type -> cuando mando un formato de cuerpo no válido (xml -> json -> form_body)
+500 Error interno en el servidor (try... catch)
